@@ -33,16 +33,11 @@ At this point, I'm looking for a job and while waiting to find, I continue to le
 ## Skills
 ***
 
-<img src="./assets/images/xcode.png" width="75" alt="Xcode">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/images/swift.png" width="75" alt="Swift">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/images/git.png" width="75" alt="Git">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/images/github.png" width="75" alt="Github">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/images/cocoapod.png" width="75" alt="Cocoapod">
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/images/xcode.png" width="75" alt="Xcode">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/images/swift.png" width="75" alt="Swift">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/images/git.png" width="75" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/images/github.png" width="75" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/images/cocoapod.png" width="75" alt="Cocoapod">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/images/firebase.png" width="75" alt="Firebase">
 
 
