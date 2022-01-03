@@ -12,13 +12,11 @@
     <a href="mailto:mickael.ruzel@gmail.com">
         <img src="https://img.shields.io/badge/email--lightgrey?style=social&logo=gmail" alt="Email">
     </a>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=${imick666}">
 </div>
 
 
 
 ## Let me introduce myself
-***
 
 <p align="justify">
 Hi, my name is Mickael, I'm iOS Developer and musicien from France. 
@@ -48,21 +46,20 @@ At this point, I'm looking for a job and while waiting to find, I continue to le
 </p>
 
 ## Skills
-***
 
-### Tools
+### Linguages :
+
+<img src="./assets/images/swift.png" width="75" alt="Swift">&nbsp;&nbsp;&nbsp;&nbsp;
+
+### FrameWorks :
+
+<img src="./assets/images/swiftUI.png" width="75" alt="SwiftUI">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/images/uiKit.png" width="75" alt="UIKit">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/images/cocoapod.png" width="75" alt="Cocoapod">&nbsp;&nbsp;&nbsp;&nbsp;
+
+### Tools :
 
 <img src="./assets/images/xcode.png" width="75" alt="Xcode">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/images/git.png" width="75" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/images/github.png" width="75" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/images/firebase.png" width="75" alt="Firebase">&nbsp;&nbsp;&nbsp;&nbsp;
-
-### Linguages
-
-<img src="./assets/images/swift.png" width="75" alt="Swift">&nbsp;&nbsp;&nbsp;&nbsp;
-
-### FrameWorks
-
-<img src="./assets/images/swiftUI.png" width="75" alt="SwiftUI">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/images/uiKit.png" width="75" alt="UIKit">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/images/cocoapod.png" width="75" alt="Cocoapod">&nbsp;&nbsp;&nbsp;&nbsp;
